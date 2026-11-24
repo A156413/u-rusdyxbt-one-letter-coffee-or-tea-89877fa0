@@ -11,6 +11,11 @@ which appends one.
 The choice is A: coffee. Coffee is the louder, bolder answer
 in the old argument — the one that shows up, wakes you up, and
 does not apologise for it.
+
+Revision (second pass, parent session): re-checked A against B
+on the judge's order — a letter that stands for the day's pick,
+vivid first, funny, true. Tea is the quieter answer; coffee is
+the one that argues back. A kept.
 """
 
 import os
